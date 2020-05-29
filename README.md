@@ -8,7 +8,7 @@
 
 After completing the installation, visit this website for api key. You will need it.  https://tech.yandex.com/dictionary/
 
-####config.json　
+#### config.json　
 Edit it yourself how you want.
 ```javascript
 {
