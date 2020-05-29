@@ -14,14 +14,14 @@ Edit it yourself how you want.
 {
 	"prefix": "!",
 	"token": "YOUR-DİSCORD-TOKEN",
-    "yandex_api_key": "YOUR-APİ-KEY",
-    "lang": "en-tr",
-    "command_vocabulary": "define",
-    "wrong_format": "Oops. Wrong format. Try { !define vocable }",
-    "embed_color":"#EFFF00",
-    "not_found": "Nothing match...",
-    "field_definition": "Definitions",
-    "field_example": "Examples"
+	"yandex_api_key": "YOUR-APİ-KEY",
+	"lang": "en-tr",
+	"command_vocabulary": "define",
+	"wrong_format": "Oops. Wrong format. Try { !define vocable }",
+	"embed_color":"#EFFF00",
+	"not_found": "Nothing match...",
+	"field_definition": "Definitions",
+	"field_example": "Examples"
 }
 ```
 > !define world
